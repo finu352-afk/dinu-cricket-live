@@ -1,0 +1,16 @@
+
+{
+  "last_updated": "",
+  "matches": [
+    {
+      "id": 1,
+      "title": "Live Cricket Match",
+      "team1": "Team A",
+      "team2": "Team B",
+      "status": "upcoming",
+      "start_time": "",
+      "stream_type": "authorized",
+      "stream_url": ""
+    }
+  ]
+}
